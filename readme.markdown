@@ -1,0 +1,1 @@
+This module can be imported to give access to it's three functions: @keywords@, @proper_names@ and @acronyms@. It can also be run as a command which returns the output of all three functions.
